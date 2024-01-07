@@ -1,6 +1,7 @@
 # Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,py,git,github,linux,mysql,sqlite,php,ps,pr,ae,figma,robloxstudio,lua,vercel)](https://skillicons.dev)
+## Some of my skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,py,git,github,linux,mysql,sqlite,php,vercel,ps,pr,ae,figma,robloxstudio,lua)](https://skillicons.dev)
 
 
 
